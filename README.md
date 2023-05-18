@@ -30,7 +30,6 @@
 
 ### About Learning academy project 
     features in learn academy website :
-    
     the website provide dashboard for admin can add new courses and trainers.
     each course belongs to a specific category.
     each student can register in more than one course .
